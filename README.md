@@ -57,3 +57,7 @@ WebStorm installation</LI></UL>
 * [AWS Certified Developer - Associate Guide - Second Edition [Video]](https://www.packtpub.com/virtualization-and-cloud/aws-certified-developer-associate-guide-second-edition)
 
 * [AWS Essentials and Solutions Architect Associate: The Total Course [Video]](https://www.packtpub.com/cloud-networking/aws-essentials-and-solutions-architect-associate-the-total-course-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781838554606">https://packt.link/free-ebook/9781838554606 </a> </p>
